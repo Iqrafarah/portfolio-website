@@ -73,8 +73,9 @@ h3 {
 }
 .intro {
     font-family: "Noe Display Bold";
-    font-size: 100px;
+    font-size: 150px;
     font-weight: 500;
+    font-weight: bold;
     margin-left: 150px;
 }
 p {
