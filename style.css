@@ -268,7 +268,7 @@ h6 {
     }
     .voorpagina {
         margin-left: -120px;
-        margin-top: -100px;
+        margin-top: -80px;
     }
     p {
         font-size: 24px;
@@ -284,7 +284,7 @@ h6 {
     }
     .projects-card {
         flex-direction: row;
-        margin-left: 100px;
+        margin-left: 80px;
         width: 65%;
     }
     .blog-h1 {
