@@ -5,9 +5,13 @@ Nieuwste release van mijn persoonlijke website: www.Iqrafarah.nl
 
 # 🎨 color codes
 /table
-| Color   | Hex    |
-| ------------- | :-----------: | 
-| `John`       | #0e141b      |
-| Green      | #64ffda       | 
+| Color         | Hex      |
+| ------------- | :------: | 
+| Very dark blue| #0e141b  |
+| Green         | #64ffda  | 
+| White         | #ffffff  | 
+| Yellow        | #ebda69  | 
+| Light blue    | #94c1f2  | 
+| light green   | #74c26a  | 
 
 
