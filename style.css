@@ -267,12 +267,12 @@ h6 {
         display: none;
     }
     .voorpagina {
-        margin-left: -120px;
-        margin-top: -80px;
+        margin-left: -110px;
+        margin-top: -50px;
     }
     p {
         font-size: 24px;
-        max-width:375px;
+        max-width:365px;
         margin-bottom: 50px;
     }
     .featured {
