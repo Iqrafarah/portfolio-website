@@ -7,7 +7,7 @@ Nieuwste release van mijn persoonlijke website: www.Iqrafarah.nl
 | Color         | Hex      |
 | ------------- | :------: | 
 | Very dark blue| #0e141b  |
-| Green         | #64ffda  | 
+| neon blue     | #64ffda  | 
 | White         | #ffffff  | 
 | Yellow        | #ebda69  | 
 | Light blue    | #94c1f2  | 
