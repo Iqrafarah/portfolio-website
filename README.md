@@ -1,3 +1,4 @@
 # Iqra's portfolio
-![image](https://user-images.githubusercontent.com/69724530/163165923-00d7c839-1f65-46d4-9608-d61b26d0d457.png)
+![image](https://user-images.githubusercontent.com/69724530/163166052-3d773f1a-659f-442d-b046-c3e0abe263fb.png)
+
 
