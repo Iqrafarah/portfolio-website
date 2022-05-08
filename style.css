@@ -55,11 +55,11 @@ li a:hover{
         font-weight: 700;
         color: #64ffda;
 }
-#logo{
+#logo img{
     font-family:'Silka-Bold', sans-serif;
     font-size: 20px;
     margin-left: 150px;
-    width:40px;
+    width: 100px;
     padding-top: 50px;
     font-weight: 700;
     cursor: pointer !important;
