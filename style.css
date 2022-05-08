@@ -263,7 +263,7 @@ h6 {
 @media (max-width: 480px) {
     #logo {
         font-size: 30px;
-        margin-left: 100px;
+        margin-left: -50px;
     }
      header {
         display: none;
