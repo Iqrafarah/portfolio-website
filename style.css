@@ -53,6 +53,7 @@ li a:hover{
 .number{
         margin-right: 0.375rem;
         font-weight: 700;
+        color: #64ffda;
 }
 #logo{
     font-family:'Silka-Bold', sans-serif;
