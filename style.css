@@ -147,7 +147,16 @@ a:before {
     border-radius: 10px;
     width: 20%;
     height: 140px;
+    animation: Slide_Up 1.4s ease;
 }
+@keyframes Slide_Up {
+    0% {
+        transform: translateY(50px);
+    }
+        100%{
+            transform: translateY(0);
+        }
+    }
 .projects-card:hover{
     background-color: rgb(15, 21, 27);
 }
@@ -263,7 +272,7 @@ h6 {
 @media (max-width: 480px) {
     #logo {
         font-size: 30px;
-        margin-left: -50px;
+        margin-left: -110px;
     }
      header {
         display: none;
