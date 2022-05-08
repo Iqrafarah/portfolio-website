@@ -127,7 +127,16 @@ a:before {
     margin-top: 150px;
     margin-left: 150px;
     font-weight: 100;
+    animation: Slide_Up 1.4s ease;
 }
+@keyframes Slide_Up {
+    0% {
+        transform: translateY(50px);
+    }
+        100%{
+            transform: translateY(0);
+        }
+    }
 .project-container {
     display: flex;
     align-items: center;
